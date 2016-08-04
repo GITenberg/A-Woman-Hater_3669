@@ -1,0 +1,31 @@
+_repo: A-Woman-Hater_3669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: This 1876-7 novel continued the author's focus on trade unionism from
+  his 1870 Put Yourself in His Place , while adding the element of a female physician
+  named Rhoda Gould to the mix in order to express support for women's rights. Rhoda
+  must overcome the prejudices of the misogynistic Vizard before she can pursue her
+  dream.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Trade unions -- Fiction'
+- !lcsh 'Women doctors -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: A Woman-Hater
+url: http://www.gutenberg.org/ebooks/3669
